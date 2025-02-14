@@ -1,0 +1,6 @@
+wygr==0.0.3
+python-dotenv
+langchain
+langchain-openai 
+openai
+streamlit
